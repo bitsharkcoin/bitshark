@@ -1,5 +1,4 @@
 # Bitshark Specifications
-🔵 - Acrônimo: BTSHK
 
 | Name | Bitshark |
 | --- | --- |
